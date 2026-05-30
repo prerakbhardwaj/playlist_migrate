@@ -310,6 +310,3 @@ Some songs genuinely don't exist on YouTube Music due to licensing or regional r
 
 ---
 
-## License
-
-MIT — use it, modify it, share it freely.
